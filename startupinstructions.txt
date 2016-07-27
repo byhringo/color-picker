@@ -1,0 +1,12 @@
+Prerequisites: Github project
+
+Steps to init project:
+
+1. In main directory:
+git init
+git remote add <github repo url>
+heroku create <name>
+npm i
+
+2. In frontend-directory:
+npm i

@@ -1,0 +1,14 @@
+{
+  "name": "color-picker-server",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Øyvind Byhring",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "hardpush": "./push_all_to_prod.sh"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
